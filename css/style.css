@@ -1,0 +1,28 @@
+.container-fluid {
+  padding-top: 40px;
+  color: white;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-bottom: 40px;
+}
+
+body {
+  background-color: #F45B69;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.heading {
+  margin-top: 40px;
+  margin-bottom: -20px;
+}
+
+.weather-info {
+  background-color: #0280C0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  margin-top: -10px;
+  height: 80px;
+}
